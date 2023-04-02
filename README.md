@@ -1,2 +1,2 @@
 # Penetration-testing-course-2023
-a penetreation testing course at HH
+a penetration testing course at HH
